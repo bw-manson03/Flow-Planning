@@ -1,0 +1,7 @@
+Recorded execution times from STDOUT when running flow.py
+XYZ: seconds
+737: 0.494
+747: 0.285
+757: 0.317
+767: 0.306
+777: 1.849
